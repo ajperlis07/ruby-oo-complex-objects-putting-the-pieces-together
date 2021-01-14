@@ -15,4 +15,5 @@ attr_reader :brand
         @condition
 
     end
+
 end
